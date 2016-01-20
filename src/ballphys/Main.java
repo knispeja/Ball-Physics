@@ -378,7 +378,7 @@ public class Main extends Applet implements Updateable, MouseListener,
 	 * @param ms
 	 */
 	public void playTone(Note note, int ms){
-		this.mb.play(note, ms);
+		//this.mb.play(note, ms);
 	}
 	
 	/**
